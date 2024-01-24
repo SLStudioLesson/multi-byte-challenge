@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="consoleapp2.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-24T17:17:17" hostname="K_U_GALLERIA" time="0.015">
+  <properties/>
+  <testcase name="appHasAGreeting()" classname="consoleapp2.AppTest" time="0.015"/>
+  <system-out><![CDATA[Heeeeeeeelooooooloooooo!!
+WOOOOOOOORLDDDDDDD!!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
